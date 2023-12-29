@@ -1,5 +1,5 @@
 # Hi
-This is a simple ping live update chart using Plotly Dash. Enjoy!
+This is a simple ping live update chart using Plotly Dash and pythonping. Enjoy!
 
 > About me: [https://www.linkedin.com/in/CesarBecerraCO](https://www.linkedin.com/in/CesarBecerraCO).
 
