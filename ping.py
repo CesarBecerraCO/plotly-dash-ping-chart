@@ -21,7 +21,7 @@ def update_data(n_intervals):
     
     samples = 180
     hi_lim = 100.0
-    ip = '8.8.8.8' #'192.168.109.45'
+    ip = '8.8.8.8'
     ip_timeout = 0.5
     
     list_t.append(datetime.now())
